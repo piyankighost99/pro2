@@ -54,7 +54,7 @@ a {
 
 /*Banner*/
 #my-bg{
-	background-image: url(/images/my-bg-image.jpg);
+	background-image: url(../images/my-bg-image.jpg);
 }
 .main-section {
 	padding-top:50px;
